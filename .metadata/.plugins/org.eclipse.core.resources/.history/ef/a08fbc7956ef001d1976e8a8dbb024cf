@@ -1,0 +1,12 @@
+package curso_java;
+
+public class Hellows {
+
+	public static void main(String[] args) {
+		
+		int y = 32;
+		System.out.println("Olá mundo!");
+		System.out.print("Bom dia!");
+	}
+
+}

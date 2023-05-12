@@ -1,0 +1,14 @@
+package curso_java;
+
+public class Length {
+
+	public static void main(String[] args) {
+	
+		String txt = "Hello";
+		System.out.println(txt.length());
+		System.out.println(txt.toUpperCase());
+		
+
+	}
+
+}
